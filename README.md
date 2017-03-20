@@ -6,7 +6,12 @@ Human related deep learning papers datasets and models.
 
 
 ## Pose
-Deepcut
+Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields:[paper](https://arxiv.org/pdf/1611.08050.pdf)
+experiment :
+![alt tag](https://github.com/nishathussain/DeepHuman/blob/master/pose/1.png)
+
+
+Deepcut-cnn:[paper]()[dataset]()
 
 ## Skin
 
