@@ -1,20 +1,33 @@
 # DeepHuman
 ------------
-Human related deep learning papers datasets and models.
+<br>Human related deep learning papers datasets, models and comments.<br />
 
 ## Segmentation
 
 
 ## Pose
-Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields:[[paper](https://arxiv.org/pdf/1611.08050.pdf)]
+<br>Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields:[[paper](https://arxiv.org/pdf/1611.08050.pdf)]<br/>
 
-experiment :
-[![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/11.png )]
-[![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/22.png )]
-[![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/33.png )]
-[![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/44.png )]
+<br>experiment :<br/>
+<br>The model works realtime one any computer/laptop.<br/>
 
-Deepcut-cnn:[[paper]()][[dataset]()]
+<br>Pro:<br/>
+<br>Realtime on images/video on most desktop<br/>
+<br>Track multiple people (>30)<br/>
+<br>Works well with overcoat/hijaab etc<br/>
+<br>works across scale<br/>
+
+<br>Cons:<br/>
+<br>Confuses when two people are very close.<br/>
+<br>Very far are not recognized well<br/>
+
+![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/11.png )
+![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/22.png )
+![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/33.png )
+![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/44.png )
+
+
+<br>Deepcut-cnn:[[paper]()][[dataset]()]<br/>
 
 ## Skin
 
