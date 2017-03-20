@@ -11,15 +11,15 @@
 <br>experiment :<br/>
 <br>The model works realtime one any computer/laptop.<br/>
 
-<br>Pro:<br/>
-<br>Realtime on images/video on most desktop<br/>
-<br>Track multiple people (>30)<br/>
-<br>Works well with overcoat/hijaab etc<br/>
-<br>works across scale<br/>
+Pro:  
+Realtime on images/video on most desktop  
+Track multiple people (>30)  
+Works well with overcoat/hijaab etc  
+Works across scale  
 
-<br>Cons:<br/>
-<br>Confuses when two people are very close.<br/>
-<br>Very far are not recognized well<br/>
+Cons:  
+Confuses when two people are very close.  
+Very far are not recognized well  
 
 ![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/11.png )
 ![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/22.png )
