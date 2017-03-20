@@ -2,8 +2,8 @@
 ------------
 <br>Human related deep learning papers datasets, models and comments.<br />
 
-## Segmentation
-
+## Segmentation  
+Semantic Segmentation: [Presentation](http://www.robots.ox.ac.uk/~sadeep/files/crfasrnn_presentation.pdf)  
 
 ## Pose
 <br>Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields:[[paper](https://arxiv.org/pdf/1611.08050.pdf)]<br/>
