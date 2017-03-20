@@ -8,6 +8,7 @@
 ## Pose
 <br>Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields:[[paper](https://arxiv.org/pdf/1611.08050.pdf)]<br/>
 https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation  
+imagenet presentation: [link](http://image-net.org/challenges/talks/2016/Multi-person%20pose%20estimation-CMU.pdf)  
 <br>experiment :<br/>
 <br>The model works realtime one any computer/laptop.<br/>
 
