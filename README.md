@@ -37,6 +37,8 @@ Very far are not recognized well
 ![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/33.png )
 ![alt tag1](https://github.com/nishathussain/DeepHuman/blob/master/pose/44.png )
 
+Pytorch implementation of the same: [[GitHubhttps](://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)]
+
 
 2. Deepcut-cnn:[[paper]()][[dataset]()]  
 
