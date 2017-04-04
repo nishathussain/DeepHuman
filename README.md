@@ -17,7 +17,7 @@ Abs: We present a conceptually simple, flexible, and general framework for objec
 
 ## Pose  
 1. Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields:[[paper](https://arxiv.org/pdf/1611.08050.pdf)]
-https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation  
+[[gitHub](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)]
 imagenet presentation: [link](http://image-net.org/challenges/talks/2016/Multi-person%20pose%20estimation-CMU.pdf)  
 <br>experiment :<br/>
 <br>The model works realtime one any computer/laptop.<br/>
@@ -46,9 +46,9 @@ Pytorch implementation of the same: [[GitHub](https://github.com/tensorboy/pytor
 
 ## Body parts
 1. SSD: Single Shot MultiBox Detector [[paper](https://arxiv.org/abs/1512.02325)] , [[GitHub Pytorch](https://github.com/nishathussain/ssd.pytorch)]
-results will be published soon.
-Pro:
-Fully conv approach
+results will be published soon.  
+Pro:  
+Fully conv approach  
 ## Clothings
 1. Cross-Scenario Clothing Retrieval and Fine-grained Style Recognition: [[paper](http://vision.unipv.it/CV/materiale2016-17/2nd%20Choice/0132.pdf)] ,[dataset]  
 
