@@ -45,7 +45,7 @@ Pytorch implementation of the same: [[GitHub](https://github.com/tensorboy/pytor
 ## Skin
 
 ## Body parts
-1. SSD: Single Shot MultiBox Detector [[paper](https://arxiv.org/abs/1512.02325)] , [[GitHub Pytorch](https://github.com/nishathussain/ssd.pytorch)]
+1. SSD: Single Shot MultiBox Detector [[paper](https://arxiv.org/abs/1512.02325)] , [[GitHub Pytorch](https://github.com/nishathussain/ssd.pytorch)]  
 results will be published soon.  
 Pro:  
 Fully conv approach  
